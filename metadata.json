@@ -1,0 +1,6 @@
+{
+  "name": "Evidence-Governed Mining Reporting Intelligence",
+  "description": "AI-Powered Geological, Mining and other Reporting Solution for CMPDI/CIL with verifiable evidence provenance and deterministic calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
